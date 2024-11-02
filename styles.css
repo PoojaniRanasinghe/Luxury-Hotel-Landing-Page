@@ -1,0 +1,24 @@
+/* Hero Section */
+.hero-section {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    position: relative;
+    text-align: center;
+}
+
+/* Card Styling */
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    text-align: center;
+}
+
+/* Footer */
+.footer .social-icons i {
+    font-size: 1.5rem;
+}
